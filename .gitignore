@@ -1,0 +1,13 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Editor directories and files
+.vscode
+.idea
+*.swp
+*.swo
+*~
