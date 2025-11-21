@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coinbase-bonus.vercel.app/sitemap.xml
